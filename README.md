@@ -4,5 +4,6 @@ This game is set to release in 2027, with a Steam page launching this December. 
 Highlights from the project so far:
 - Player Scripts/Inventory and Player Scripts/Items (Especially the Whip, LightningStaff, Seed, and SeedPouch
 - Everything in the *Dev Tools* folder
-- World Functions/Bridge and World Functions/BridgeInteraction  
+- World Functions/Bridge and World Functions/BridgeInteraction
+
 ***If you are an employer and would like a demo of the game, send me a message through my personal email and internship account and I would be happy to provide one***
